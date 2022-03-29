@@ -1,0 +1,31 @@
+{
+  "name": "shidacap",
+  "version": "1.0.0",
+  "description": "First Server Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_ENV=production node index",
+    "server": "nodemon index",
+    "dev": "npm run server"
+  },
+  "author": "Steve Otieno",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^7.6.0",
+    "bcryptjs": "^2.4.3",
+    "colors": "^1.4.0",
+    "concurrently": "^7.0.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-validator": "^6.14.0",
+    "hbs": "^4.2.0",
+    "helmet": "^5.0.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.5",
+    "yargs": "^17.3.0"
+  }
+}

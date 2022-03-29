@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Hospital System",
+        "ideaCategory": "Health",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content",
+        "languages": ["Java", "Kotlin", "C#"],
+        "estimatedTimeInMonths": 3,
+        "requiresCollaboration": false,
+        "discordLink": "https://discord/hospitalproject.com",
+        "postedBy":"Teresa Woof",
+        "collaborators" : ["Teresa Woof"]
+    },
+    {
+        "title": "Manufacturing System",
+        "ideaCategory": "Manufacturing",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content",
+        "languages": ["HTML & CSS", "Ruby", "JavaScript"],
+        "estimatedTimeInMonths": 2,
+        "discordLink": "https://discord/manufacturingproject.com",
+        "postedBy":"Monica Davis",
+        "collaborators" : ["Ian Idea", "Monica Davis"]
+    },
+    {
+        "title": "Education System",
+        "ideaCategory": "Education",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content",
+        "languages": ["C#"],
+        "estimatedTimeInMonths": 5,
+        "discordLink": "https://discord/educationproject.com",
+        "postedBy":"Barak Woof",
+        "collaborators" : ["Barak Woof", "Ian Idea"]
+    },
+    {
+        "title": "Security System",
+        "ideaCategory": "Security",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content",
+        "languages": ["Java"],
+        "estimatedTimeInMonths": 2,
+        "discordLink": "https://discord/securityproject.com",
+        "postedBy":"Getrude Olier",
+        "collaborators" : ["Getrude Olier", "Alvin Mike"]
+    }
+]

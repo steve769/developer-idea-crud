@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Teresa Woof",
+        "email": "teresa@gmail.com",
+        "gender": "female",
+        "password": "123456",
+        "phone": "111-222-3333"
+    },
+    {
+        "name": "Alvin Mike",
+        "email": "alvin@gmail.com",
+        "gender": "male",
+        "password": "123456",
+        "phone": "110-222-3333"
+    },
+    {
+        "name": "Barack Woof",
+        "email": "barack@gmail.com",
+        "gender": "male",
+        "password": "123456",
+        "phone": "100-222-3333"
+    },
+    {
+        "name": "Getrude Olier",
+        "email": "getrude@gmail.com",
+        "gender": "female",
+        "password": "123456",
+        "phone": "111-444-3333"
+    },
+    {
+        "name": "Monica Davis",
+        "email": "monica@gmail.com",
+        "gender": "female",
+        "password": "123456",
+        "phone": "111-555-3333"
+    },
+    {
+        "name": "Ian Idea",
+        "email": "ian@gmail.com",
+        "gender": "male",
+        "password": "123456",
+        "phone": "111-777-3333"
+    }
+]
